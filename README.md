@@ -18,6 +18,7 @@ Calculates number and diameter of particle clusters in TEM microscope images, ha
 + For images with high amounts of clusters, analysis may take several minutes
 + For images with very low amounts of clusters, the results can vary
 + It doesn't work if multiple objects overlap each other, as they will be detected as 1 object
++ Scale entry is very limited since it currently only works if the scale bar is about 127 pixels long, I plan on fixing this in the future
 + You are limited to having 10 results open at once
 + There is no inbuilt method for saving the analysed image
 + Saving results in a text file is inefficient use of space
@@ -26,6 +27,6 @@ Calculates number and diameter of particle clusters in TEM microscope images, ha
 I plan on creating an article about how the program works soon
 
 ## Other
-I will upload sample images
-This project was made for a materials science researcher at Newcastle University
-This project was also made for computer science A level coursework
++ There are 4 [sample images](sample_images/) that you can use to see what kind of images to use, or just to test the program
++ This project was made for a materials science researcher at Newcastle University
++ This project was also made for computer science A level coursework
