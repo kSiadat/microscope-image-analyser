@@ -27,7 +27,6 @@ Calculates number and diameter of particle clusters in TEM microscope images, ha
 I plan on creating an article about how the program works soon
 
 ## Other
-/* + There are 4 [sample images](sample_images/) that you can use to see what kind of images to use, or just to test the program
 + I will add some sample images in the future
 + This project was made for a materials science researcher at Newcastle University
 + This project was also made for computer science A level coursework
