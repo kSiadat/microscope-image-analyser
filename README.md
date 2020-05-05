@@ -24,7 +24,7 @@ Calculates number and diameter of particle clusters in TEM microscope images, ha
 + Saving results in a text file is inefficient use of space
 
 ## How it works
-I plan on creating an article about how the program works soon
+You can read the [article](posts/how_it_works.md) about how the program works, there are currently no images to go with it so it may be a little difficult to understand from just the words.
 
 ## Other
 + I will add some sample images in the future
